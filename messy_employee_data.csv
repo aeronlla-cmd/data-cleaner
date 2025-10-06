@@ -1,0 +1,56 @@
+Employee_ID,Full_Name,Age,Gender,Department,Position,Salary,Hire_Date,Email,Status
+000001,Mary smith  ,-5.0,male,it ,clerk,116530.0,,mary.smithgmail.com,Active
+000002,michael DAVIS###,,M,marketing,Manager,9999999.0,2020/13/40,michael.davis@yahoo.com,Inactive
+000003,Mary miller###,-5.0,Male,hr ,Associate,-1000.0,2020/13/40,mary.millertest@.com,Active
+000004,aLICE JONES ,150.0,Male ,ADMIN ,Assistant,,2020/13/40,alice.jones@yahoo.com,Active
+000005,emily DAVIS !!,150.0,FEMALE ,Operations*,Manager,50021.0,2020/13/40,emily.davis@gmail.com,Inactive
+000006,David garcia  ,-5.0,male,it!!,Associate,,,david.garcia@company,Active
+000007,Mary williams !!,150.0,FEMALE,ADMIN,Analyst,-1000.0,,mary.williamstest@.com,Inactive
+000008,sofia JOHNSON !!,,male ,hr ,Manager,,2014/04/06,sofia.johnson@company,Inactive
+000009,peter rodriguez !!,50.0,M,Operations,staff,22552.0,04-08-2018,peter.rodriguez@gmail.com,Inactive
+000010,Mary rodriguez  ,150.0,FEMALE!,hr*,Associate,,31-12-2015,mary.rodrigueztest@.com,Inactive
+000011,emily rodriguez ,45.0,male ,it,executive,64313.0,24-01-2013,emily.rodrigueztest@.com,Active
+000012,John miller,150.0,F,hr ,Intern,9999999.0,,john.miller@yahoo.com,Active
+000013,David miller,,female!,HR ,executive,-1000.0,14-01-2023,david.milleryahoo.com,Active
+000014,lucas garcia  ,32.0,female,sales!!,executive,26630.0,09-03-2020,lucas.garcia@example,Active
+000015,David smith !!,-5.0,female*,marketing,Lead,-1000.0,2020/13/40,david.smith@yahoo.com,Active
+000016,John wilson !!,150.0,Male,sales ,executive,9999999.0,2023/12/14,john.wilson@yahoo.com,Active
+000017,David wilson ,-5.0,F!,it,director,,2020/13/40,david.wilson@example,Active
+000018,Mary rodriguez###,-5.0,male*,Operations,executive,9999999.0,05-02-2019,mary.rodriguez@example,Active
+000019,peter JONES###,24.0,FEMALE,sales,clerk,,19-10-2017,peter.jones@company,Inactive
+000020,lucas smith  ,-5.0,male*,marketing,clerk,-1000.0,2013/02/11,lucas.smithgmail.com,Active
+000021,David williams  ,-5.0,F ,HR ,director,9999999.0,,david.williamstest@.com,Inactive
+000022,John williams,-5.0,female*,it*,Assistant,40866.0,,john.williamsyahoo.com,Active
+000023,aLICE smith ,150.0,female*,Operations,Assistant,133292.0,,alice.smithtest@.com,Active
+000024,Olivia JONES  ,19.0,M,ADMIN*,director,,2015/09/14,olivia.jones@example,Inactive
+000025,John rodriguez,150.0,F!,ADMIN*,executive,,2020/13/40,john.rodrigueztest@.com,Inactive
+000026,michael williams,,FEMALE!,ADMIN*,clerk,,2016/05/19,michael.williams@company,Inactive
+000027,emily brown  ,,FEMALE,Sales,executive,,2020/13/40,emily.brown@yahoo.com,Active
+000028,emily wilson ,,female!,Finance,Intern,-1000.0,11-07-2016,emily.wilson@yahoo.com,Active
+000029,peter rodriguez !!,46.0,M!,it!!,executive,9999999.0,2020/13/40,peter.rodriguez@example,Active
+000030,emily garcia###,150.0,FEMALE,marketing*,Associate,9999999.0,2019/05/01,emily.garcia@company,Active
+000031,peter brown,150.0,FEMALE,it!!,executive,-1000.0,,peter.brownexample,Inactive
+000032,emily smith,-5.0,female!,ADMIN*,Associate,9999999.0,2020/13/40,emily.smith@example,Active
+000033,emily williams###,56.0,female*,Finance!!,Analyst,106900.0,16-11-2015,emily.williamsexample,Active
+000034,emily miller ,,F,ADMIN,Assistant,129433.0,2014/12/10,emily.miller@company,Active
+000035,aLICE smith  ,150.0,male ,Sales,staff,107747.0,,alice.smith@company,Inactive
+000036,Mary wilson###,-5.0,M,ADMIN,Lead,9999999.0,17-03-2012,mary.wilson@gmail.com,Inactive
+000037,michael DAVIS,-5.0,Male!,sales ,director,-1000.0,,michael.davis@company,Active
+000038,michael JONES,,female*,ADMIN!!,Analyst,,2020/13/40,michael.jones@example,Active
+000039,emily miller ,,male!,Operations ,Assistant,,2012/02/13,emily.millertest@.com,Inactive
+000040,michael brown###,,FEMALE!,hr*,staff,123931.0,21-11-2018,michael.brown@example,Inactive
+000041,David rodriguez !!,-5.0,FEMALE ,hr ,Assistant,,13-10-2022,david.rodriguezcompany,Active
+000042,emily JONES ,-5.0,Male*,it,Assistant,,2021/06/19,emily.jonestest.com,Active
+000043,emily JOHNSON,-5.0,female,hr!!,staff,9999999.0,,emily.johnson@gmail.com,Active
+000044,peter williams###,-5.0,Male*,it!!,executive,-1000.0,,peter.williams@example,Active
+000045,Olivia JOHNSON ,150.0,FEMALE!,it!!,Assistant,106563.0,10-02-2020,olivia.johnsontest.com,Inactive
+000046,lucas smith  ,-5.0,FEMALE*,marketing ,staff,9999999.0,05-04-2012,lucas.smithexample,Active
+000047,Mary smith,-5.0,M,Finance!!,Assistant,77560.0,,mary.smith@company,Active
+000048,David miller,-5.0,Male ,Finance*,Intern,146079.0,2019/06/12,david.miller@yahoo.com,Inactive
+000049,emily JOHNSON,-5.0,female!,Operations,director,107835.0,,emily.johnson@example,Active
+000050,sofia JONES,37.0,female,sales!!,Manager,-1000.0,09-04-2024,sofia.jonestest@.com,Active
+000014,lucas garcia  ,32.0,female,sales!!,executive,26630.0,09-03-2020,lucas.garcia@example,Active
+000040,michael brown###,,FEMALE!,hr*,staff,123931.0,21-11-2018,michael.brown@example,Inactive
+000031,peter brown,150.0,FEMALE,it!!,executive,-1000.0,,peter.brownexample,Inactive
+000046,lucas smith  ,-5.0,FEMALE*,marketing ,staff,9999999.0,05-04-2012,lucas.smithexample,Active
+000018,Mary rodriguez###,-5.0,male*,Operations,executive,9999999.0,05-02-2019,mary.rodriguez@example,Active
